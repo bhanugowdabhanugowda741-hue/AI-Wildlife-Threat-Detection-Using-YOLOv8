@@ -1,0 +1,7 @@
+ultralytics==8.2.103
+opencv-python
+torch
+pygame
+numpy
+matplotlib
+pandas
