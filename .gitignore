@@ -1,0 +1,5 @@
+**pycache**/
+*.pt
+*.wav
+runs/
+venv/
